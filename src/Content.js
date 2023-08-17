@@ -1,0 +1,7 @@
+const Content=[
+    {title:"Skills",des:"Front-end developer with proven ability to design and develop JavaScript-based applications for web or mobile environments. Strong knowledge of React JS, jQuery, Angular, Vue JS, HTML, CSS, and Bootstrap. Experienced in all stages of interface component design, from conception to final testing and deployment of web-responsive applications.."},
+{title:"Experience",des:"Develop front-end features, components, and libraries, translating designs and wireframes into high-quality, reusable code optimized for maximum performance across various web-capable devices and browsers.Demonstrate ability to lead and contribute to technical discussions, participating in and facilitating daily stand-ups, bi-weekly sprint planning, and sprint retrospectives."},
+{title:"Education",des:"Develop front-end features, components, and libraries, translating designs and wireframes into high-quality, reusable code optimized for maximum performance across various web-capable devices and browsers.Demonstrate ability to lead and contribute to technical discussions, participating in and facilitating daily stand-ups, bi-weekly sprint planning, and sprint retrospectives."}
+]
+
+export default Content
